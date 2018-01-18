@@ -1,0 +1,27 @@
+{
+
+  "manifest_version": 2,
+  "name": "profanity-filter",
+  "version": "1",
+
+  "description": "Censor profanity on websites",
+
+  "icons": {
+    "48": "icons/profane-48.png"
+  },
+
+  "permissions": [
+    "activeTab",
+    "tabs"
+      ],
+
+  "browser_action": {
+    "default_icon": "icons/profane-48.png",
+    "default_title": "Profanity filter"
+  },
+
+  "background":
+    {
+      "scripts": ["index.js"]
+    }
+}
