@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://s17.postimg.org/7m717j17j/logo-wide-small.png"">
-</p>
-<p align="center">
 <a href="#">
     <img src="https://img.shields.io/badge/made%20with-love-E760A4.svg" alt="Made with love">
   </a>         
 </p>
-<p align="center">
+<p>
 WebExtension that filters profanity on a website 
 </p>
              
