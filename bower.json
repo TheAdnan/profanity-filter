@@ -1,0 +1,24 @@
+{
+  "name": "profanity-filter",
+  "main": "index.js",
+  "homepage": "https://github.com/TheAdnan/profanity-filter",
+  "authors": [
+    "TheAdnan <adnankicin92@gmail.com>"
+  ],
+  "description": "Filter profanity on the web",
+  "keywords": [
+    "firefox",
+    "addon",
+    "extension",
+    "profanity"
+  ],
+  "license": "Mozilla Public License Version 2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
