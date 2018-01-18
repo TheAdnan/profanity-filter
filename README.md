@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://github.com/TheAdnan/profanity-filter/blob/master/icons/profane-48.png">
-
-
-	<img src="https://img.shields.io/badge/How%20do%20I%20edit%20this%20badge-sh*t-orange.svg" alt="profanity">
 </p>
 <p align="center">
 <a href="#">
     <img src="https://img.shields.io/badge/made%20with-love-E760A4.svg" alt="Made with love">
-  </a>         
+  </a>      
+  <a href="#">
+    <img src="https://img.shields.io/badge/How%20do%20I%20edit%20this%20badge-sh*t-orange.svg" alt="profanity">
+  </a>     
 </p>
 
 
