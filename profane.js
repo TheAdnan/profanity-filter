@@ -1,3 +1,2 @@
-
 $ = (queryString) => document.querySelector(queryString);
 

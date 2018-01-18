@@ -4,7 +4,7 @@
   "name": "profanity-filter",
   "version": "1",
 
-  "description": "Censor profanity on websites",
+  "description": "Censor profanity all over the web",
 
   "icons": {
     "48": "icons/profane-48.png"
